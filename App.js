@@ -5,7 +5,7 @@ import WelcomeScreen from './App/screens/WelcomeScreen';
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <Text>ALSDkajksdhkjasgdhjgafhaksdjhjkasdk!</Text>
+      <Text>dsdfsdghgfdhgfhhgkkghkhsdf!</Text>
       <WelcomeScreen />
     </SafeAreaView>
   );
